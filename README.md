@@ -8,9 +8,10 @@
 - 💬 Ask me about Python, Machine Learning and Robotics.
 - ⚡ Fun fact: Trust me. I am a very good Lawn Tennis player.
 
+You can also reach me on:
 
-👔 [linkedin][linkedin]
-📦 [kaggle][kaggle]
+👔 [LinkedIn][linkedin]
+📦 [Kaggle][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/prashanth-prince/
 [kaggle]: https://www.kaggle.com/prashanthprince/notebooks
