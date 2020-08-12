@@ -10,5 +10,7 @@
 
 
 👔 [linkedin][linkedin]
+📦 [kaggle][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/prashanth-prince/
+[kaggle]: https://www.kaggle.com/prashanthprince/notebooks
