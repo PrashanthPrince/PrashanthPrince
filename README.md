@@ -1,5 +1,4 @@
-# Hi 👋 This is Prashanth
-# Welcome to my GitHub profile.
+# Hi 👋 Welcome to Prashanth's GitHub profile.
 
 [![HitCount](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince.svg)](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince)
 
