@@ -15,6 +15,6 @@ You can also reach me on:
 [linkedin]: https://www.linkedin.com/in/prashanth-prince/
 [kaggle]: https://www.kaggle.com/prashanthprince/notebooks
 
-# Things I do for fun?
+# Things I do for fun
 - I love Lawn Tennis.
 - I am a keyboardist.
