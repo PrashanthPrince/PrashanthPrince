@@ -1,5 +1,5 @@
-### Hi 👋 This is Prashanth
-### Welcome to my GitHub profile.
+# Hi 👋 This is Prashanth
+# Welcome to my GitHub profile.
 
 [![HitCount](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince.svg)](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince)
 
@@ -16,6 +16,6 @@ You can also reach me on:
 [linkedin]: https://www.linkedin.com/in/prashanth-prince/
 [kaggle]: https://www.kaggle.com/prashanthprince/notebooks
 
-### What do I do for fun?
+# Things I do for fun?
 - I love Lawn Tennis.
 - I am a keyboardist.
