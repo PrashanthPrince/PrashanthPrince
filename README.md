@@ -9,9 +9,12 @@
 - ⚡ Fun fact: Trust me. I am a very good Lawn Tennis player.
 
 You can also reach me on:
-
 👔 [LinkedIn][linkedin]
 📦 [Kaggle][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/prashanth-prince/
 [kaggle]: https://www.kaggle.com/prashanthprince/notebooks
+
+### What do I do for fun?
+- I love Lawn Tennis.
+- I am a keyboardist.
