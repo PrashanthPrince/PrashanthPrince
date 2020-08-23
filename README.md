@@ -1,6 +1,5 @@
 # Hi 👋 Welcome to Prashanth's GitHub profile.
 
-[![HitCount](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince.svg)](http://hits.dwyl.com/PrashanthPrince/PrashanthPrince)
 
 - 🔭 I’m currently working on Machine Learning models and Cloud Robotics.
 - 🌱 I’m currently learning --- Well! I am always learning about new interesting stuffs. 
