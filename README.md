@@ -1,9 +1,26 @@
-# Hi 👋 Welcome to Prashanth's GitHub profile.
+# Hi 👋 Welcome to my GitHub profile.
+
+I am a Roboticist with a Masters degree in Robotics from King's College London. My interests include Machine Learning and Cloud Robotics. 
+I come with an experience of working with Machine Learning, ROS, software development and deployment.
+In the past, I have worked as an Associate Softeare Engineer for 2 years at Solartis Technology Pvt Ltd.
+
+I am currently looking for a full-time role as Machine Learning Engineer, AI Engineer, Robotics Software Engineer or in related field.
+
+# Things I'm good at :
+
+**Languages:**  Python, C++
+
+**Libraries & Tools:** ROS, Tensorflow, Keras, Scikit-Learn, Matplotlib, NumPy, Pandas, NLTK, AWS EC2, AWS S3, Gazebo.
+
+**Data Analysis:** Exploratory Data Analysis, Feature Engineering, Data Visualization, Natural Language Processing, Model Development & Evaluation Metrics.
+
+**Code Editors:** Microsoft Visual Studio Code, Jupyter notebooks.
+
+**OS:** Ubuntu, RHEL, Windows
 
 
 - 🔭 I’m currently working on Machine Learning models and Cloud Robotics.
-- 🌱 I’m currently learning --- Well! I am always learning about new interesting stuffs. 
-- 👯 I’m looking to collaborate on projects involving Machine Learning, ROS and python.
+- 👯 I’m looking to collaborate on projects involving Data Science concepts, Machine Learning, ROS and python.
 - 💬 Ask me about Python, Machine Learning and Robotics.
 - ⚡ Fun fact: Trust me. I am a very good Lawn Tennis player.
 
