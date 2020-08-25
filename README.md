@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PrashanthPrince&style=flat-square)
 
-I am a Roboticist with a Masters degree in Robotics from King's College London. My interests include Machine Learning, Computer Vision and Cloud Robotics. 
+I am a Roboticist with a Masters degree in Robotics from King's College London, United Kingdom. My interests include Machine Learning, Computer Vision and Cloud Robotics. 
 I come with an experience of working with Machine Learning, ROS, software development and deployment.
 In the past, I have worked as an Associate Software Engineer for 2 years at Solartis Technology Pvt Ltd.
 
