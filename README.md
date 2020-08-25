@@ -36,3 +36,6 @@ You can also reach me on:
 # Things I do for fun
 - I love playing Lawn Tennis.
 - I am a keyboardist.
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=PrashanthPrince&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
